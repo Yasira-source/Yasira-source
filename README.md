@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Yasira-source
-- 👀 I’m interested in Web DevoPs & Mobile Appln DevoPs
-- 🌱 I’m currently learning NestJS, GraphQL & Flutter
-- 💞️ I’m looking to collaborate on Banking Platform Development in NestJs, React JS
+- 👀 I’m interested in Web & Mobile Appln DevOps, AI
+- 🌱 My Current stack is NodeJS, React, Flutter, PHP (Laravel), MongoDB & SQL (MySQL, PostgreSQL)
+- 🌱 I’m currently learning Python - Machine Learning, and cybersecurity
+- 🌱 I’ve worked in the FINTECH world for some good time, especially with Banking Platforms and Payment systems
+- 💞️ I love working in a team, but I still find solo development fine as well
 - 📫 How to reach me academicsyasira@gmail.com
 
 <!---
